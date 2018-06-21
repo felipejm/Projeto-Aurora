@@ -32,5 +32,3 @@ O visual do aplicativo está nesse arquivo [telas.png](https://github.com/joaooo
 
 ![Image](https://floating-mountain-50292.herokuapp.com/telas.png)
 
-
-### # DESAFIO IMPLEMENTADO:
