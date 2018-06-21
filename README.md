@@ -7,15 +7,11 @@
 - Padrão arquitetural: MVP
 
 ### # Bibliotecas e Frameworks utilizados
-Retrofit 2
-
-Rxjava 2
-
-Espresso
-
-OkHttp
-
-Timber
+- Retrofit 2
+- Rxjava 2
+- Espresso
+- OkHttp
+- Timber
 
 ### # Melhorias não implementadas
 - Utilizar injeção de dependencia (ex: Dagger 2, Koin ou Kodein).
