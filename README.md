@@ -12,6 +12,10 @@
 - Espresso
 - OkHttp
 - Timber
+- Apache commons
+- JUnit
+- MockWebServer
+- MaterialEdittext(com.rengwuxian.materialedittext)
 
 ### # Melhorias não implementadas
 - Utilizar injeção de dependencia (ex: Dagger 2, Koin ou Kodein).
