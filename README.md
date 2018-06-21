@@ -2,15 +2,22 @@
 
 ### # Detalhes Técnicos
 Plataforma: Android
+
 Versão minima: 4.4
+
 Linguagem: Kotlin
+
 Padrão arquitetural: MVP
 
 ### # Bibliotecas e Frameworks utilizados
 Retrofit 2
+
 Rxjava 2
+
 Espresso
+
 OkHttp
+
 Timber
 
 ### # Melhorias não implementadas
