@@ -15,7 +15,7 @@
 
 ### # Melhorias não implementadas
 - Utilizar injeção de dependencia (ex: Dagger 2, Koin ou Kodein).
-- Refatorar testes e criar testes unitarios na camada do model.
+- Refatorar testes e criar testes unitarios no model.
 - Tratar cenários de erro.
 - Tratar unsubscribe nas chamadas do servico.
 - Configurar Proguard.
