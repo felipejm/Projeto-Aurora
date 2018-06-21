@@ -21,7 +21,7 @@
 - Configurar Proguard.
 
 
-### # DESAFIO IMPLEMENTADO:
+### # Desafio Implementado:
 
 Em uma tela terá um formulário dinâmico com alguns campos predefinidos, conforme o arquivo JSON disponível no link ([https://floating-mountain-50292.herokuapp.com/cells.json](https://floating-mountain-50292.herokuapp.com/cells.json)) que deverá
   ser consumido. Este formulário terá de ser desenhado e exibir uma tela de sucesso quando as informações preenchidas estiverem corretas.
